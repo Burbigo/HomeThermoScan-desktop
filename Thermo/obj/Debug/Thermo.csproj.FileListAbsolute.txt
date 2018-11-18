@@ -1,0 +1,10 @@
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\bin\Debug\Thermo.exe.config
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\bin\Debug\matrix.txt
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\bin\Debug\Thermo.exe
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\bin\Debug\Thermo.pdb
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.csprojResolveAssemblyReference.cache
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.Form1.resources
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.Properties.Resources.resources
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.csproj.GenerateResource.Cache
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.exe
+d:\Documents\Temp\Ros\HomeThermoScan\Testing\GettingThermoPictureFromTxtFile\Thermo\obj\Debug\Thermo.pdb

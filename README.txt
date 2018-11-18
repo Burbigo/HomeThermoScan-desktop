@@ -1,0 +1,1 @@
+Put the matrix with 45*60 points into matrix.text and after running you'll get the simple thermo picture from your data.
